@@ -1,0 +1,1 @@
+-- clicar botão direito no relatório HTML do mochawesome e copiar path, para colar no navegador
