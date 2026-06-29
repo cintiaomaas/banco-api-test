@@ -87,7 +87,7 @@ Sugestão: para executar os teste e abrir o relatório HTML automaticamente, adi
 
 ```json
 "scripts": {
-  "test:report": "npm test && open mochawesome-report/mochawesome.html
+  "test:report": "npm test && open mochawesome-report/mochawesome.html"
 }
 ```
 
