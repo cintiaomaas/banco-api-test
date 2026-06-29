@@ -81,7 +81,7 @@ npx mocha
 
 O projeto utiliza o **Mochawesome**.
 
-Após a execução dos testes com npm test será criado automaticamente o relatório dentro do diretório `mochawesome-report`:
+Após a execução dos testes com npm test será criado automaticamente o relatório dentro do diretório `mochawesome-report`: clicando em cima do relatório gerada com botão direito selecione "copy patch" e cole no navegador.
 
 Sugestão: para executar os teste e abrir o relatório HTML automaticamente, adicione um script no `package.json`
 
